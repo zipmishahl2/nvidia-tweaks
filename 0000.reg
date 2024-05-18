@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0000]
+"DisableAsyncPstates"=dword:00000001
+"DisableDynamicPstate"=dword:00000001
+"DisableOverclockedPstates"=dword:00000000
+"enableAdaptiveSync"=dword:00000000
+"EnablePerformanceMode"=dword:00000001
