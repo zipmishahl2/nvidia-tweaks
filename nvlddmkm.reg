@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00 Made by 1F4uc1k public file version: 1.0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
+"Gestalt"=dword:00000513
+"HideXGpuTrayIcon"=dword:00000001
+"NvCplAllowStartupDelay"=dword:00000001
+"NvCplAllowWinSatAssessment"=dword:00000000
+"NvCplPhysxAuto"=dword:00000000
+"NvDevToolsVisible"=dword:00000001
+"RmProfilingAdminOnly"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm]
+"DisableBugcheckCallback"=dword:00000001
+"DisableCudaContextPreemption"=dword:00000000
+"DisableKmRenderBoost"=dword:00000000
+"DisableKmRenderStage"=dword:00000000
+"DisableKmRender"=dword:00000000
+"DisablePreemptionOnS3S4"=dword:00000000
+"DisablePreemption"=dword:00000000
+"DisableWriteCombining"=dword:00000001
+"EnableBugcheckDisplay"=dword:00000000
+"EnableBugcheckTinting"=dword:00000000
+"EnableIoMmu"=dword:00000000
+"EnablePerformanceMode"=dword:00000001
+"KMD_StackTraceControl"=dword:00000000
+"PageFaultDebugMode"=dword:00000000
