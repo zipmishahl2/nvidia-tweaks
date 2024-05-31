@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[-HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup\SendTelemetryData"]
+[-"HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup\SendTelemetryData"]
 
 [HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
 "OptInOrOutPreference"=dword:00000000
