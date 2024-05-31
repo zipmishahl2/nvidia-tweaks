@@ -1,5 +1,10 @@
 Windows Registry Editor Version 5.00
 
+[-HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup\SendTelemetryData"]
+
+[HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
+"OptInOrOutPreference"=dword:00000000
+
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
 "Gestalt"=dword:00000513
 "NvCplAllowWinSatAssessment"=dword:00000000
