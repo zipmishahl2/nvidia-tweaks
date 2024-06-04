@@ -79,7 +79,7 @@ Windows Registry Editor Version 5.00
 "EnableRID41500"=dword:00000001
 "EnableRID61684"=dword:00000001
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0000]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
@@ -118,7 +118,7 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0001]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
@@ -157,7 +157,7 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0002]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0002]
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
@@ -196,7 +196,7 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0003]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0003]
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
@@ -235,7 +235,7 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\*\0004]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0004]
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
