@@ -2,6 +2,24 @@ Windows Registry Editor Version 5.00
 
 [-HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup\SendTelemetryData]
 
+[HKLM\SOFTWARE\NVIDIA Corporation\Global\NVTweak]
+"DisplayPowerSaving"=dword:00000000
+
+[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\Global\NVTweak]
+"DisplayPowerSaving"=dword:00000000
+
+[HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
+"DisplayPowerSaving"=dword:00000000
+
+[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm]
+"EnableMidBufferPreemption"=dword:00000000
+
+[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"RMDisablePostL2Compression"=dword:00000001
+"RmDisableRegistryCaching"=dword:00000001
+"RmGpsPsEnablePerCpuCoreDpc"=dword:00000001
+"DisableWriteCombining"=dword:00000001
+
 [HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
 "OptInOrOutPreference"=dword:00000000
 
@@ -85,6 +103,9 @@ Windows Registry Editor Version 5.00
 "DisableDynamicPstate"=dword:00000001
 "DisableOverclockedPstates"=dword:00000000
 "enableAdaptiveSync"=dword:00000000
+"TrackResetEngine"=dword:00000000
+"UseBestResolution"=dword:00000001
+"ValidateBlitSubRects"=dword:00000000
 "EnableMClkSlowdown"=dword:00000000
 "EnableMemoryTiling"=dword:00000001
 "EnablePerformanceMode"=dword:00000001
@@ -94,6 +115,7 @@ Windows Registry Editor Version 5.00
 "PowerMizerLevelAC"=dword:00000001
 "PowerMizerLevel"=dword:00000001
 "PowerSaverHsyncOn"=dword:00000000
+"RMGpuId"=dword:00000256
 "RMBandwidthFeature"=dword:00000064
 "RmClkPowerOffDramPllWhenUnused"=dword:00000000
 "RMClkSlowDown"=dword:00000000
@@ -122,6 +144,7 @@ Windows Registry Editor Version 5.00
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
+"FeatureControl"=dword:00000004
 "DisableOverclockedPstates"=dword:00000000
 "enableAdaptiveSync"=dword:00000000
 "EnableMClkSlowdown"=dword:00000000
@@ -136,6 +159,7 @@ Windows Registry Editor Version 5.00
 "RMBandwidthFeature"=dword:00000064
 "RmClkPowerOffDramPllWhenUnused"=dword:00000000
 "RMClkSlowDown"=dword:00000000
+"RmDisableInst2Sys"=dword:00000000
 "RMDisableGpuASPMFlags"=dword:00000001
 "RmDisableHdcp22"=dword:00000001
 "RMEnableASPMAtLoad"=dword:00000000
@@ -143,6 +167,9 @@ Windows Registry Editor Version 5.00
 "RMEnableClk"=dword:00000001
 "RMEnableEventTracer"=dword:00000000
 "RMEnableL1ECC"=dword:00000000
+"RmCacheLoc"=dword:00000000
+"NVDeviceSupportKFilter"=dword:00000000
+"RmFbsrPagedDMA"=dword:00000001
 "RMEnableOverclockingAllPstates"=dword:00000001
 "RMEnableSHMECC"=dword:00000000
 "RMEnableSMECC"=dword:00000000
@@ -161,6 +188,7 @@ Windows Registry Editor Version 5.00
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
+"FeatureControl"=dword:00000004
 "DisableOverclockedPstates"=dword:00000000
 "enableAdaptiveSync"=dword:00000000
 "EnableMClkSlowdown"=dword:00000000
@@ -175,6 +203,7 @@ Windows Registry Editor Version 5.00
 "RMBandwidthFeature"=dword:00000064
 "RmClkPowerOffDramPllWhenUnused"=dword:00000000
 "RMClkSlowDown"=dword:00000000
+"RmDisableInst2Sys"=dword:00000000
 "RMDisableGpuASPMFlags"=dword:00000001
 "RmDisableHdcp22"=dword:00000001
 "RMEnableASPMAtLoad"=dword:00000000
@@ -182,6 +211,9 @@ Windows Registry Editor Version 5.00
 "RMEnableClk"=dword:00000001
 "RMEnableEventTracer"=dword:00000000
 "RMEnableL1ECC"=dword:00000000
+"RmCacheLoc"=dword:00000000
+"NVDeviceSupportKFilter"=dword:00000000
+"RmFbsrPagedDMA"=dword:00000001
 "RMEnableOverclockingAllPstates"=dword:00000001
 "RMEnableSHMECC"=dword:00000000
 "RMEnableSMECC"=dword:00000000
@@ -200,6 +232,7 @@ Windows Registry Editor Version 5.00
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
+"FeatureControl"=dword:00000004
 "DisableOverclockedPstates"=dword:00000000
 "enableAdaptiveSync"=dword:00000000
 "EnableMClkSlowdown"=dword:00000000
@@ -214,6 +247,7 @@ Windows Registry Editor Version 5.00
 "RMBandwidthFeature"=dword:00000064
 "RmClkPowerOffDramPllWhenUnused"=dword:00000000
 "RMClkSlowDown"=dword:00000000
+"RmDisableInst2Sys"=dword:00000000
 "RMDisableGpuASPMFlags"=dword:00000001
 "RmDisableHdcp22"=dword:00000001
 "RMEnableASPMAtLoad"=dword:00000000
@@ -221,6 +255,9 @@ Windows Registry Editor Version 5.00
 "RMEnableClk"=dword:00000001
 "RMEnableEventTracer"=dword:00000000
 "RMEnableL1ECC"=dword:00000000
+"RmCacheLoc"=dword:00000000
+"NVDeviceSupportKFilter"=dword:00000000
+"RmFbsrPagedDMA"=dword:00000001
 "RMEnableOverclockingAllPstates"=dword:00000001
 "RMEnableSHMECC"=dword:00000000
 "RMEnableSMECC"=dword:00000000
@@ -239,6 +276,7 @@ Windows Registry Editor Version 5.00
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
 "DisableDynamicPstate"=dword:00000001
+"FeatureControl"=dword:00000004
 "DisableOverclockedPstates"=dword:00000000
 "enableAdaptiveSync"=dword:00000000
 "EnableMClkSlowdown"=dword:00000000
@@ -253,6 +291,7 @@ Windows Registry Editor Version 5.00
 "RMBandwidthFeature"=dword:00000064
 "RmClkPowerOffDramPllWhenUnused"=dword:00000000
 "RMClkSlowDown"=dword:00000000
+"RmDisableInst2Sys"=dword:00000000
 "RMDisableGpuASPMFlags"=dword:00000001
 "RmDisableHdcp22"=dword:00000001
 "RMEnableASPMAtLoad"=dword:00000000
@@ -260,6 +299,9 @@ Windows Registry Editor Version 5.00
 "RMEnableClk"=dword:00000001
 "RMEnableEventTracer"=dword:00000000
 "RMEnableL1ECC"=dword:00000000
+"RmCacheLoc"=dword:00000000
+"NVDeviceSupportKFilter"=dword:00000000
+"RmFbsrPagedDMA"=dword:00000001
 "RMEnableOverclockingAllPstates"=dword:00000001
 "RMEnableSHMECC"=dword:00000000
 "RMEnableSMECC"=dword:00000000
