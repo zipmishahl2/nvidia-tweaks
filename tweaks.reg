@@ -2,6 +2,9 @@ Windows Registry Editor Version 5.00
 
 [-HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup\SendTelemetryData]
 
+[HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup]
+"SendTelemetryData"=dword:00000000
+
 [HKLM\SOFTWARE\NVIDIA Corporation\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
