@@ -5,6 +5,12 @@ Windows Registry Editor Version 5.00
 [HKLM\SOFTWARE\NVIDIA Corporation\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
+[HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"SubscribedContent-202914Enabled"=dword:00000000
+"SubscribedContent-338387Enabled"=dword:00000000
+"SubscribedContent-338389Enabled"=dword:00000000
+"SubscribedContent-353698Enabled"=dword:00000000
+
 [HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
