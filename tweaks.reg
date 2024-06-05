@@ -41,6 +41,20 @@ Windows Registry Editor Version 5.00
 "EnablePreemption"=dword:00000000
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"EnableCEPreemption"=dword:00000000
+"GPUPreemptionLevel"=dword:00000000
+
+[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
 "EnablePreemption"=dword:00000000
 
 [HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
@@ -121,6 +135,18 @@ Windows Registry Editor Version 5.00
 "EnableRID61684"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"GPUPreemptionLevel"=dword:00000000
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
@@ -165,6 +191,18 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
+"GPUPreemptionLevel"=dword:00000000
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
@@ -209,6 +247,18 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0002]
+"GPUPreemptionLevel"=dword:00000000
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
@@ -253,6 +303,18 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0003]
+"GPUPreemptionLevel"=dword:00000000
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
@@ -297,6 +359,18 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0004]
+"GPUPreemptionLevel"=dword:00000000
+"ComputePreemption"=dword:00000000
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
 "ACGSupported"=dword:00000000
 "DisableAsyncPstates"=dword:00000001
