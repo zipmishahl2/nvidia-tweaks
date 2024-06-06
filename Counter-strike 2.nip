@@ -3,7 +3,6 @@
   <Profile>
     <ProfileName>Counter-strike 2</ProfileName>
     <Executeables>
-      <string>csgos2.exe</string>
       <string>cs2.exe</string>
     </Executeables>
     <Settings>
