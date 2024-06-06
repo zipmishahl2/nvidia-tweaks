@@ -157,6 +157,7 @@ Windows Registry Editor Version 5.00
 "EnableRID61684"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
@@ -213,6 +214,7 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
+"RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
@@ -269,6 +271,7 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0002]
+"RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
@@ -325,6 +328,7 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0003]
+"RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
@@ -381,6 +385,7 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0004]
+"RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
