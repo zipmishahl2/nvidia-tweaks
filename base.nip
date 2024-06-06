@@ -1,1 +1,651 @@
-// very soon
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Base Profile</ProfileName>
+    <Executeables />
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>219885</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Enable GTX950 specific features</SettingNameInfo>
+        <SettingID>268295</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>390417</SettingID>
+        <SettingValue>1401226867</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>787844</SettingID>
+        <SettingValue>925473076</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>787845</SettingID>
+        <SettingValue>24</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983226</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983227</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983230</SettingID>
+        <SettingValue>3</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983231</SettingID>
+        <SettingValue>0x1000000;</SettingValue>
+        <ValueType>String</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983295</SettingID>
+        <SettingValue>AAAAQAAAAAA=</SettingValue>
+        <ValueType>Binary</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>986284</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1116569</SettingID>
+        <SettingValue>4096</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1116570</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1180947</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1243759</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1256084</SettingID>
+        <SettingValue>3</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1679359</SettingID>
+        <SettingValue>%LocalAppData%\NVIDIA\DXCache\Omniverse</SettingValue>
+        <ValueType>String</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Negative LOD bias</SettingNameInfo>
+        <SettingID>1686376</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1752079</SettingID>
+        <SettingValue>536870912</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>2035422</SettingID>
+        <SettingValue>GLOBAL_REORDER_QUEUE</SettingValue>
+        <ValueType>String</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>2226393</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>2251819</SettingID>
+        <SettingValue>4</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>2438135</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>2623705</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Trilinear optimization</SettingNameInfo>
+        <SettingID>3066610</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Sharpening Value</SettingNameInfo>
+        <SettingID>3070157</SettingID>
+        <SettingValue>60</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Sharpening - Denoising Factor</SettingNameInfo>
+        <SettingID>3070158</SettingID>
+        <SettingValue>17</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>3224887</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>3282042</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>3310627</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>3570246</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>3752097</SettingID>
+        <SettingValue>16</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>4051968</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>4327613</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>4667700</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>4667701</SettingID>
+        <SettingValue>512</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>4835137</SettingID>
+        <SettingValue>131104</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>5259162</SettingID>
+        <SettingValue>1907701745</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>5284185</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Vertical Sync Tear Control</SettingNameInfo>
+        <SettingID>5912412</SettingID>
+        <SettingValue>2525368439</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6108638</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6124183</SettingID>
+        <SettingValue>2032739856</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6249010</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6252971</SettingID>
+        <SettingValue>16</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Preferred refresh rate</SettingNameInfo>
+        <SettingID>6600001</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo> </SettingNameInfo>
+        <SettingID>6710836</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6714418</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>6763614</SettingID>
+        <SettingValue>256</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7042735</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7168407</SettingID>
+        <SettingValue>2729785185</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7249993</SettingID>
+        <SettingValue>*ReflSpec_RG*</SettingValue>
+        <ValueType>String</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7252343</SettingID>
+        <SettingValue>524288</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7699704</SettingID>
+        <SettingValue>64</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>7925480</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Maximum pre-rendered frames</SettingNameInfo>
+        <SettingID>8102046</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>8548411</SettingID>
+        <SettingValue>134217728</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Anisotropic filter optimization</SettingNameInfo>
+        <SettingID>8703344</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>8735915</SettingID>
+        <SettingValue>40</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>8779557</SettingID>
+        <SettingValue>2570617088</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>8779558</SettingID>
+        <SettingValue>2570617088</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>9630942</SettingID>
+        <SettingValue>1401226867</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>9672755</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10473721</SettingID>
+        <SettingValue>8</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10473722</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10473723</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10520390</SettingID>
+        <SettingValue>32</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10556191</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10641188</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10699555</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10702627</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10810129</SettingID>
+        <SettingValue>2729785185</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Vertical Sync</SettingNameInfo>
+        <SettingID>11041231</SettingID>
+        <SettingValue>138504007</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>11041276</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>11041279</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>11048848</SettingID>
+        <SettingValue>256</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>VAB Default Data</SettingNameInfo>
+        <SettingID>11241095</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Shader disk cache maximum size</SettingNameInfo>
+        <SettingID>11306135</SettingID>
+        <SettingValue>4294967295</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Quality</SettingNameInfo>
+        <SettingID>13510289</SettingID>
+        <SettingValue>20</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>14444720</SettingID>
+        <SettingValue>4</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>14566042</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Texture filtering - Anisotropic sample optimization</SettingNameInfo>
+        <SettingID>15151633</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Flag to control smooth AFR behavior</SettingNameInfo>
+        <SettingID>270198627</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Anisotropic filtering setting</SettingNameInfo>
+        <SettingID>270426537</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA Predefined FXAA Usage</SettingNameInfo>
+        <SettingID>271895433</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA Predefined Ansel Usage</SettingNameInfo>
+        <SettingID>271965065</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>273747574</SettingID>
+        <SettingValue>8</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Power management mode</SettingNameInfo>
+        <SettingID>274197361</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Enable Ansel</SettingNameInfo>
+        <SettingID>276158834</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Gamma correction</SettingNameInfo>
+        <SettingID>276652957</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Mode</SettingNameInfo>
+        <SettingID>276757595</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Toggle the VRR global feature</SettingNameInfo>
+        <SettingID>278196567</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>VRR requested state</SettingNameInfo>
+        <SettingID>278196727</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>G-SYNC</SettingNameInfo>
+        <SettingID>279476652</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Variable refresh Rate</SettingNameInfo>
+        <SettingID>279476686</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>G-SYNC</SettingNameInfo>
+        <SettingID>279476687</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Anisotropic filtering mode</SettingNameInfo>
+        <SettingID>282245910</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Setting</SettingNameInfo>
+        <SettingID>282555346</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>CUDA Sysmem Fallback Policy</SettingNameInfo>
+        <SettingID>283962569</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>284639831</SettingID>
+        <SettingValue>268435457</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Enable G-SYNC globally</SettingNameInfo>
+        <SettingID>294973784</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>OpenGL GDI compatibility</SettingNameInfo>
+        <SettingID>544392611</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Antialiasing - Line gamma</SettingNameInfo>
+        <SettingID>545898348</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>549198379</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Threaded optimization</SettingNameInfo>
+        <SettingID>549528094</SettingID>
+        <SettingValue>2</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Preferred OpenGL GPU</SettingNameInfo>
+        <SettingID>550564838</SettingID>
+        <SettingValue>id,2.0:1C0310DE,00000900,GF - (304,6,161,6144) @ (0)</SettingValue>
+        <ValueType>String</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Vulkan/OpenGL present method</SettingNameInfo>
+        <SettingID>550932728</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1343646814</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
