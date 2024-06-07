@@ -157,6 +157,17 @@ Windows Registry Editor Version 5.00
 "EnableRID61684"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"PP_MCLKStutterModeThreshold"=dword:00000256
+"PP_SclkDeepSleepDisable"=dword:00000001
+"PP_ThermalAutoThrottlingEnable"=dword:00000000
+"StutterMode"=dword:00000000
+"EnableVCNPreemption"=dword:00000000
+"EnableUlps"=dword:00000000
+"DisablePowerGating"=dword:00000001
+"DisableDrmdmaPowerGating"=dword:00000001
+"DisableDMACopy"=dword:00000001
+"DisableBlockWrite"=dword:00000000
+"DisableAllClockGating"=dword:00000001
 "RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
@@ -214,6 +225,17 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
+"PP_MCLKStutterModeThreshold"=dword:00000256
+"PP_SclkDeepSleepDisable"=dword:00000001
+"PP_ThermalAutoThrottlingEnable"=dword:00000000
+"StutterMode"=dword:00000000
+"EnableVCNPreemption"=dword:00000000
+"EnableUlps"=dword:00000000
+"DisablePowerGating"=dword:00000001
+"DisableDrmdmaPowerGating"=dword:00000001
+"DisableDMACopy"=dword:00000001
+"DisableBlockWrite"=dword:00000000
+"DisableAllClockGating"=dword:00000001
 "RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
@@ -271,6 +293,17 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0002]
+"PP_MCLKStutterModeThreshold"=dword:00000256
+"PP_SclkDeepSleepDisable"=dword:00000001
+"PP_ThermalAutoThrottlingEnable"=dword:00000000
+"StutterMode"=dword:00000000
+"EnableVCNPreemption"=dword:00000000
+"EnableUlps"=dword:00000000
+"DisablePowerGating"=dword:00000001
+"DisableDrmdmaPowerGating"=dword:00000001
+"DisableDMACopy"=dword:00000001
+"DisableBlockWrite"=dword:00000000
+"DisableAllClockGating"=dword:00000001
 "RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
@@ -328,6 +361,17 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0003]
+"PP_MCLKStutterModeThreshold"=dword:00000256
+"PP_SclkDeepSleepDisable"=dword:00000001
+"PP_ThermalAutoThrottlingEnable"=dword:00000000
+"StutterMode"=dword:00000000
+"EnableVCNPreemption"=dword:00000000
+"EnableUlps"=dword:00000000
+"DisablePowerGating"=dword:00000001
+"DisableDrmdmaPowerGating"=dword:00000001
+"DisableDMACopy"=dword:00000001
+"DisableBlockWrite"=dword:00000000
+"DisableAllClockGating"=dword:00000001
 "RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
@@ -385,6 +429,17 @@ Windows Registry Editor Version 5.00
 "_User_Global_XALG_Noise_Reduce"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0004]
+"PP_MCLKStutterModeThreshold"=dword:00000256
+"PP_SclkDeepSleepDisable"=dword:00000001
+"PP_ThermalAutoThrottlingEnable"=dword:00000000
+"StutterMode"=dword:00000000
+"EnableVCNPreemption"=dword:00000000
+"EnableUlps"=dword:00000000
+"DisablePowerGating"=dword:00000001
+"DisableDrmdmaPowerGating"=dword:00000001
+"DisableDMACopy"=dword:00000001
+"DisableBlockWrite"=dword:00000000
+"DisableAllClockGating"=dword:00000001
 "RMHdcpKeyglobZero"=dword:00000001
 "GPUPreemptionLevel"=dword:00000000
 "ComputePreemption"=dword:00000000
