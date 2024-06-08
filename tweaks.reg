@@ -44,8 +44,22 @@ Windows Registry Editor Version 5.00
 "LogErrorEntries"=dword:00000000
 
 [HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm]
+"DisableBugcheckCallback"=dword:00000001
+"DisableCudaContextPreemption"=dword:00000001
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableMidGfxPreemptionVGPU"=dword:00000000
+"EnableMidGfxpSharedBuffer"=dword:00000000
+"EnableMidGfxPreemption"=dword:00000000
+"PerfAnalyzeMidBufferPreemption"=dword:00000000
+"EnableSCGMidBufferPreemption"=dword:00000000
+"EnableAsyncMidBufferPreemption"=dword:00000000
+"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"EnableCEPreemption"=dword:00000000
+"EnableMidBufferPreemption"=dword:00000000
+"EnableHDAudioD3Cold"=dword:00000000
+"DisableWriteCombining"=dword:00000001
+"DisableTRCOnPreWin10"=dword:00000001
 "0x112493bd"=dword:00000000
-"0x11e91a61"=dword:4294967295
 "EnableMidGfxPreemption"=dword:00000000
 "DisablePreemption"=dword:00000001
 
