@@ -37,6 +37,7 @@ Windows Registry Editor Version 5.00
 "ComputePreemption"=dword:00000000
 "DisablePreemption"=dword:00000001
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
+"DisableBugcheckCallback"=dword:00000001
 "LogWarningEntries"=dword:00000000
 "LogPagingEntries"=dword:00000000
 "LogEventEntries"=dword:00000000
