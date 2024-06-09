@@ -76,6 +76,13 @@ Windows Registry Editor Version 5.00
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
 "EnablePreemption"=dword:00000000
+"IOMMUFlags"=dword:00000000
+"DisableMultiSourceMPOCheck"=dword:00000000
+"DisableOverlays"=dword:00000001 ; break for Geforce experience
+"EnableDecodeMPO"=dword:00000000
+"ForceEnableDxgMms2"=dword:00000001
+"MiracastForceDisable"=dword:00000001
+"PowerSavingTweaks"=dword:00000000
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
 "DisableCudaContextPreemption"=dword:00000001
