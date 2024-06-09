@@ -2,7 +2,7 @@
 
 # info for nvidia-tweaks
 
-These tweaks minimize latency and maximize fps, and the input of the lag will not be related to electricity.
+These settings will minimize lag and maximize frame rates, and the lag won't be electric.
 
 ## How do I use the .nip file?
 
