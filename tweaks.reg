@@ -175,6 +175,7 @@ Windows Registry Editor Version 5.00
 "WDDMv22EnableSmoothTransition"=dword:00000001
 
 [HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\FTS]
+"EnableGR535"=dword:00000000
 "EnableRID44231"=dword:00000000
 "EnableRID64640"=dword:00000000
 "EnableRID66610"=dword:00000000
