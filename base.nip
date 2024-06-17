@@ -493,7 +493,7 @@
       <ProfileSetting>
         <SettingNameInfo>Preferred OpenGL GPU</SettingNameInfo>
         <SettingID>550564838</SettingID>
-        <SettingValue>id,2.0:220610DE,00002D00,GF - (368,2,161,10240) @ (0)</SettingValue>
+        <SettingValue>autoselect</SettingValue>
         <ValueType>String</ValueType>
       </ProfileSetting>
       <ProfileSetting>
