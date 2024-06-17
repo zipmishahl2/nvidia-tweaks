@@ -520,30 +520,6 @@
         <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
-      <ProfileSetting>
-        <SettingNameInfo />
-        <SettingID>1343646814</SettingID>
-        <SettingValue>0</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
-      <ProfileSetting>
-        <SettingNameInfo />
-        <SettingID>2156231208</SettingID>
-        <SettingValue>1</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
-      <ProfileSetting>
-        <SettingNameInfo>Flag to control smooth AFR behavior</SettingNameInfo>
-        <settingID>270198627</SettingID>
-        <SettingValue>0</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
-      <ProfileSetting>
-        <SettingNameInfo>Frame Rate Limiter 2 Control</SettingNameInfo>
-        <SettingID>277041151</SettingID>
-        <SettingValue>64</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
     </Settings>
   </Profile>
   <Profile>
