@@ -12,9 +12,3 @@ the profile is imported by itself and applied
 # How do I use the .reg file?
 
 download the file, double-click on it with the left mouse button and click ok, you can close the window already
-
-## Thanks to those who shared Nvidia tweaks
-
-_ iiiexoiii _
-
-djdallmann
