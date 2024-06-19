@@ -271,7 +271,7 @@
       <ProfileSetting>
         <SettingNameInfo>Antialiasing - Mode</SettingNameInfo>
         <SettingID>276757595</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -445,7 +445,7 @@
       <ProfileSetting>
         <SettingNameInfo>Exported Overlay pixel types</SettingNameInfo>
         <SettingID>547022447</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -487,7 +487,7 @@
       <ProfileSetting>
         <SettingNameInfo>Threaded optimization</SettingNameInfo>
         <SettingID>549528094</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
