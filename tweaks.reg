@@ -15,6 +15,9 @@ Windows Registry Editor Version 5.00
 [HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
+[HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
+"OptInOrOutPreference"=dword:00000000
+
 [HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
 "SubscribedContent-338389Enabled"=dword:00000000
 "SubscribedContent-314563Enabled"=dword:00000000
@@ -91,9 +94,6 @@ Windows Registry Editor Version 5.00
 "GPUPreemptionLevel"=dword:00000000
 "EnablePreemption"=dword:00000000
 
-[HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
-"OptInOrOutPreference"=dword:00000000
-
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
 "Gestalt"=dword:00000513
 "NvCplAllowWinSatAssessment"=dword:00000000
@@ -148,7 +148,6 @@ Windows Registry Editor Version 5.00
 "EnablePerformanceMode"=dword:00000001
 "EnableSCGMidBufferPreemption"=dword:00000001
 "EnableSparseTexture"=dword:00000001
-"KMD_StackTraceControl"=dword:00000000
 "MoveToBufferBoundaryPreemption"=dword:00000001
 "NVFBCEnable"=dword:00000001
 "PageFaultDebugMode"=dword:00000000
@@ -169,26 +168,6 @@ Windows Registry Editor Version 5.00
 "EnableRID44231"=dword:00000000
 "EnableRID64640"=dword:00000000
 "EnableRID66610"=dword:00000000
-"EnableSRS1364"=dword:00000001
-"EnableSRS1891"=dword:00000001
-"EnableRID50422"=dword:00000001
-"EnableSRS1045"=dword:00000001
-"EnableSRS1564"=dword:00000001
-"EnableSRS1673"=dword:00000001
-"EnableFSN511"=dword:00000001
-"EnableRID50787"=dword:00000001
-"EnableRID49431"=dword:00000001
-"EnableSRS1906"=dword:00000001
-"EnableSRS1736"=dword:00000001
-"EnableRID44814"=dword:00000001
-"EnableFSN408"=dword:00000001
-"EnableSRS1717"=dword:00000001
-"EnableRID46078"=dword:00000001
-"EnableRID58722"=dword:00000001
-"EnableRID57152"=dword:00000001
-"EnableRID58285"=dword:00000001
-"EnableRID41500"=dword:00000001
-"EnableRID61684"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
 "RMOPSB"=dword:00002AA2
