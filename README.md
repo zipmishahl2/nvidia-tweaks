@@ -18,7 +18,3 @@ download the file, double-click on it with the left mouse button and click ok, y
 _ iiiexoiii _
 
 djdallmann
-
-SheMelody
-
-Calypto
