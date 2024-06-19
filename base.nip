@@ -531,7 +531,7 @@
       <ProfileSetting>
         <SettingNameInfo>Power management mode</SettingNameInfo>
         <SettingID>274197361</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>3</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
     </Settings>
