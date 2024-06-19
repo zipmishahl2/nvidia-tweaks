@@ -59,29 +59,21 @@ Windows Registry Editor Version 5.00
 "EnableHDAudioD3Cold"=dword:00000000
 "DisableWriteCombining"=dword:00000001
 "DisableTRCOnPreWin10"=dword:00000001
-"0x112493bd"=dword:00000000
 "EnableMidGfxPreemption"=dword:00000000
 "DisablePreemption"=dword:00000001
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
-"RMDisablePostL2Compression"=dword:00000001
-"RmDisableRegistryCaching"=dword:00000001
 "RmGpsPsEnablePerCpuCoreDpc"=dword:00000001
 "DisableWriteCombining"=dword:00000001
 "EnablePreemption"=dword:00000000
 
-[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
-"EnablePreemption"=dword:00000000
-"PlatformSupportMiracast"=dword:00000000
-
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
 "EnablePreemption"=dword:00000000
 "IOMMUFlags"=dword:00000000
-"DisableMultiSourceMPOCheck"=dword:00000000
-"DisableOverlays"=dword:00000001 ; break for Geforce experience
+"DisableMultiSourceMPOCheck"=dword:00000001
+"DisableOverlays"=dword:00000001 ; breaks overalay alt+z Nvidia GeForce experience
 "EnableDecodeMPO"=dword:00000000
 "ForceEnableDxgMms2"=dword:00000001
-"MiracastForceDisable"=dword:00000001
 "PowerSavingTweaks"=dword:00000000
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
@@ -97,8 +89,6 @@ Windows Registry Editor Version 5.00
 "EnableMidBufferPreemption"=dword:00000000
 "EnableCEPreemption"=dword:00000000
 "GPUPreemptionLevel"=dword:00000000
-
-[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
 "EnablePreemption"=dword:00000000
 
 [HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
