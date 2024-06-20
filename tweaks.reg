@@ -111,10 +111,7 @@ Windows Registry Editor Version 5.00
 "RMDisableRCOnDBE"=dword:00000001
 "RM1441072"=dword:00000001
 "RMAERRHandling"=dword:00000000
-"DisablePowerGating"=dword:00000001
-"DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
-"DisableAllClockGating"=dword:00000001
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
@@ -144,10 +141,7 @@ Windows Registry Editor Version 5.00
 "RMDisableRCOnDBE"=dword:00000001
 "RM1441072"=dword:00000001
 "RMAERRHandling"=dword:00000000
-"DisablePowerGating"=dword:00000001
-"DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
-"DisableAllClockGating"=dword:00000001
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
@@ -177,10 +171,7 @@ Windows Registry Editor Version 5.00
 "RMDisableRCOnDBE"=dword:00000001
 "RM1441072"=dword:00000001
 "RMAERRHandling"=dword:00000000
-"DisablePowerGating"=dword:00000001
-"DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
-"DisableAllClockGating"=dword:00000001
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
@@ -210,10 +201,7 @@ Windows Registry Editor Version 5.00
 "RMDisableRCOnDBE"=dword:00000001
 "RM1441072"=dword:00000001
 "RMAERRHandling"=dword:00000000
-"DisablePowerGating"=dword:00000001
-"DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
-"DisableAllClockGating"=dword:00000001
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
@@ -243,10 +231,7 @@ Windows Registry Editor Version 5.00
 "RMDisableRCOnDBE"=dword:00000001
 "RM1441072"=dword:00000001
 "RMAERRHandling"=dword:00000000
-"DisablePowerGating"=dword:00000001
-"DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
-"DisableAllClockGating"=dword:00000001
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
