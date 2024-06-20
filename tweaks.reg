@@ -18,6 +18,12 @@ Windows Registry Editor Version 5.00
 [HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
 "OptInOrOutPreference"=dword:00000000
 
+[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\FTS]
+"EnableGR535"=dword:00000000
+"EnableRID44231"=dword:00000000
+"EnableRID64640"=dword:00000000
+"EnableRID66610"=dword:00000000
+
 [HKLM\SYSTEM\ControlSet001\Services\nvlddmkm]
 "EnableMidBufferPreemption"=dword:00000000
 "DisableCudaContextPreemption"=dword:00000001
@@ -34,7 +40,6 @@ Windows Registry Editor Version 5.00
 
 [HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm]
 "EnableMidBufferPreemption"=dword:00000000
-"DisableCudaContextPreemption"=dword:00000001
 "EnableMidGfxPreemptionVGPU"=dword:00000000
 "EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
 "ComputePreemption"=dword:00000000
@@ -99,14 +104,6 @@ Windows Registry Editor Version 5.00
 "EnableMidGfxPreemption"=dword:00000001
 "EnablePageFaultDebugOutput"=dword:00000000
 "EnablePerformanceMode"=dword:00000001
-"EnableSCGMidBufferPreemption"=dword:00000001
-"MoveToBufferBoundaryPreemption"=dword:00000001
-
-[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\FTS]
-"EnableGR535"=dword:00000000
-"EnableRID44231"=dword:00000000
-"EnableRID64640"=dword:00000000
-"EnableRID66610"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
 "RMAERRForceDisable"=dword:00000001
