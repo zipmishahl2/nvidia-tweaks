@@ -109,6 +109,11 @@ Windows Registry Editor Version 5.00
 "EnableRID66610"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"RMAERRForceDisable"=dword:00000001
+"RMNoECCFuseCheck"=dword:00000001
+"RMDisableRCOnDBE"=dword:00000001
+"RM1441072"=dword:00000001
+"RMAERRHandling"=dword:00000000
 "DisablePowerGating"=dword:00000001
 "DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
@@ -137,6 +142,12 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001]
+"RMAERRForceDisable"=dword:00000001
+"RMNoECCFuseCheck"=dword:00000001
+"RMDisableRCOnDBE"=dword:00000001
+"RM1441072"=dword:00000001
+"RMAERRHandling"=dword:00000000
+"DisablePowerGating"=dword:00000001
 "DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
 "DisableAllClockGating"=dword:00000001
@@ -164,6 +175,12 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0002]
+"RMAERRForceDisable"=dword:00000001
+"RMNoECCFuseCheck"=dword:00000001
+"RMDisableRCOnDBE"=dword:00000001
+"RM1441072"=dword:00000001
+"RMAERRHandling"=dword:00000000
+"DisablePowerGating"=dword:00000001
 "DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
 "DisableAllClockGating"=dword:00000001
@@ -191,6 +208,12 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0003]
+"RMAERRForceDisable"=dword:00000001
+"RMNoECCFuseCheck"=dword:00000001
+"RMDisableRCOnDBE"=dword:00000001
+"RM1441072"=dword:00000001
+"RMAERRHandling"=dword:00000000
+"DisablePowerGating"=dword:00000001
 "DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
 "DisableAllClockGating"=dword:00000001
@@ -218,6 +241,12 @@ Windows Registry Editor Version 5.00
 "VRRAlwaysON"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0004]
+"RMAERRForceDisable"=dword:00000001
+"RMNoECCFuseCheck"=dword:00000001
+"RMDisableRCOnDBE"=dword:00000001
+"RM1441072"=dword:00000001
+"RMAERRHandling"=dword:00000000
+"DisablePowerGating"=dword:00000001
 "DisableDrmdmaPowerGating"=dword:00000001
 "DisableBlockWrite"=dword:00000000
 "DisableAllClockGating"=dword:00000001
