@@ -1,4 +1,5 @@
 # nvidia-tweaks
+These settings will minimize lag and maximize frame rates
 
 # info for nvidia-tweaks
 
