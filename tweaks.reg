@@ -61,7 +61,6 @@ Windows Registry Editor Version 5.00
 "DisableMultiSourceMPOCheck"=dword:00000001
 "DisableOverlays"=dword:00000001 
 "EnableDecodeMPO"=dword:00000000
-"ForceEnableDxgMms2"=dword:00000001
 "PowerSavingTweaks"=dword:00000000
 
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
@@ -74,7 +73,6 @@ Windows Registry Editor Version 5.00
 "EnableMidGfxPreemption"=dword:00000000
 "EnableMidBufferPreemption"=dword:00000000
 "EnableCEPreemption"=dword:00000000
-"GPUPreemptionLevel"=dword:00000000
 "EnablePreemption"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
