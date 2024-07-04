@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-16"?>
 <ArrayOfProfile>
   <Profile>
     <ProfileName>Base Profile</ProfileName>
@@ -140,12 +140,6 @@
         <SettingNameInfo />
         <SettingID>7353259</SettingID>
         <SettingValue>1</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
-      <ProfileSetting>
-        <SettingNameInfo>Texture filtering - LOD Bias</SettingNameInfo>
-        <SettingID>7573135</SettingID>
-        <SettingValue>256</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
