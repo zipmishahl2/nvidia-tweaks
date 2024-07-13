@@ -66,9 +66,6 @@ Windows Registry Editor Version 5.00
 [HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
 "ComputePreemption"=dword:00000000
 "EnableMidGfxPreemptionVGPU"=dword:00000000
-"EnableMidBufferPreemptionForHighTdrTimeout"=dword:00000000
-"EnableAsyncMidBufferPreemption"=dword:00000000
-"EnableSCGMidBufferPreemption"=dword:00000000
 "PerfAnalyzeMidBufferPreemption"=dword:00000000
 "EnableMidGfxPreemption"=dword:00000000
 "EnableMidBufferPreemption"=dword:00000000
@@ -80,6 +77,7 @@ Windows Registry Editor Version 5.00
 "NvCplPhysxAuto"=dword:00000000
 "NvDevToolsVisible"=dword:00000001
 "RmProfilingAdminOnly"=dword:00000000
+"DisableStoreNvCplNotifications"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm]
 "EnableMidGfxPreemptionVGPU"=dword:00000000
