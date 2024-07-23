@@ -3,40 +3,40 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\Startup\SendTelemetryData]
 @=dword:00000000
 
-[HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\Startup]
 "SendTelemetryData"=dword:00000000
 
-[HKLM\SOFTWARE\NVIDIA Corporation\Global\NVTweak]
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
-[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\Global\NVTweak]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\nvlddmkm\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
-[HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
 "DisplayPowerSaving"=dword:00000000
 
-[HKLM\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
 "OptInOrOutPreference"=dword:00000000
 
-[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\FTS]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\nvlddmkm\FTS]
 "EnableGR535"=dword:00000000
 "EnableRID44231"=dword:00000000
 "EnableRID64640"=dword:00000000
 "EnableRID66610"=dword:00000000
 
-[HKLM\SYSTEM\ControlSet001\Services\nvlddmkm]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\nvlddmkm]
 "DisableCudaContextPreemption"=dword:00000001
 "ComputePreemption"=dword:00000000
 "DisablePreemption"=dword:00000001
 
-[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
 "DisableMultiSourceMPOCheck"=dword:00000001
 
-[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
 "DisableWriteCombining"=dword:00000001
 "EnablePreemption"=dword:00000000
 
-[HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
 "ComputePreemption"=dword:00000000
 "EnableCEPreemption"=dword:00000000
 "EnablePreemption"=dword:00000000
